@@ -3,8 +3,11 @@
 A simple Todo Mobile App for creating and deleting tasks
 
 ## Installation and Steps to run
+
 Should have latest version of NodeJS 
+
 Go to the App Directory and use the below command to run the App
+
  `expo start` 
   or
  `npm start` 
